@@ -1,3 +1,6 @@
+# Finance-System
+Pure Basic to Advance Learning Project for Beginners (Including core knowledge of Ai, ML, NLP, Agentic, OCR)
+
 # Data
 ## High-Quality Invoice Images for OCR
 - Source: Kaggle[](https://www.kaggle.com/datasets/osamahosamabdellatif/high-quality-invoice-images-for-ocr)
@@ -5,3 +8,4 @@
 - Annotations: [Yes/No, describe if present, e.g., JSON with invoice number, date]
 - Number of Invoices: [Count after verification]
 - Purpose: OCR and NLP testing for Finance System Project
+
